@@ -8,5 +8,5 @@ package cn.dao.output;
  * @Date           2017年12月15日 下午3:17:46  
 */
 public interface OutputMapper {
-
+	
 }
